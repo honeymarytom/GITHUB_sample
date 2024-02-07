@@ -1,2 +1,3 @@
 This is a sample file for GIT
 File changed for updateText
+New line for the issue
